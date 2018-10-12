@@ -1,0 +1,11 @@
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\obj\Debug\netcoreapp2.1\Teclas_Telefone.csprojAssemblyReference.cache
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\obj\Debug\netcoreapp2.1\Teclas_Telefone.csproj.CoreCompileInputs.cache
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\obj\Debug\netcoreapp2.1\Teclas_Telefone.AssemblyInfoInputs.cache
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\obj\Debug\netcoreapp2.1\Teclas_Telefone.AssemblyInfo.cs
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\bin\Debug\netcoreapp2.1\Teclas_Telefone.deps.json
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\bin\Debug\netcoreapp2.1\Teclas_Telefone.runtimeconfig.json
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\bin\Debug\netcoreapp2.1\Teclas_Telefone.runtimeconfig.dev.json
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\bin\Debug\netcoreapp2.1\Teclas_Telefone.dll
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\bin\Debug\netcoreapp2.1\Teclas_Telefone.pdb
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\obj\Debug\netcoreapp2.1\Teclas_Telefone.dll
+D:\ADS\ETURN\Teclas_Telefone\Teclas_Telefone\obj\Debug\netcoreapp2.1\Teclas_Telefone.pdb
