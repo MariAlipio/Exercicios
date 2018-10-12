@@ -1,0 +1,10 @@
+D:\ADS\ETURN\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.deps.json
+D:\ADS\ETURN\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.runtimeconfig.json
+D:\ADS\ETURN\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.runtimeconfig.dev.json
+D:\ADS\ETURN\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.dll
+D:\ADS\ETURN\Vetores\Vetores\bin\Debug\netcoreapp2.1\Vetores.pdb
+D:\ADS\ETURN\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.csproj.CoreCompileInputs.cache
+D:\ADS\ETURN\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.AssemblyInfoInputs.cache
+D:\ADS\ETURN\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.AssemblyInfo.cs
+D:\ADS\ETURN\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.dll
+D:\ADS\ETURN\Vetores\Vetores\obj\Debug\netcoreapp2.1\Vetores.pdb
